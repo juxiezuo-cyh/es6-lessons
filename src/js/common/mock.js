@@ -1,0 +1,1 @@
+import FetchMock from 'fetch-mock';
